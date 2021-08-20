@@ -1,8 +1,10 @@
-# Unichat boilerplace
+# Chat-App
 
-This is a modded creat-react-app project. It comes with:
+This is  creat-react- chat-app project. It comes with:
 
-- A manifest with correct packages
-- Useless files taken out
-- Needed folder structure
+- Firebase login authentication
+- Chat-engine api
 - CSS
+(start with : npm start)
+And dont forget ot change your private key, project-id in (chat.js)
+"# chat-app" 
